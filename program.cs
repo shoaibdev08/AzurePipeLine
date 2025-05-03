@@ -19,7 +19,7 @@ namespace SeleniumRunner
                 Console.WriteLine("Test failed with exception:");
                 Console.WriteLine(ex.Message);
             }
-
+            //test
             Console.WriteLine("Press any key to exit...");
             Console.ReadKey();
         }
